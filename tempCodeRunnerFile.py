@@ -1,0 +1,1 @@
+tree1.bind('<<TreeviewSelect>>', item_selected)
